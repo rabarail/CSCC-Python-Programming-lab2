@@ -5,4 +5,6 @@ Starter code: None
 Date:02/04/2026"""
 print("Please, enter the total bill amount:")
 bill = float(input())
+tip15 = bill *.15
+tip20 = bill *.20
 
