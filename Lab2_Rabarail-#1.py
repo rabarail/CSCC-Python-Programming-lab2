@@ -11,3 +11,5 @@ total15=bill +tip15
 total20 =bill+tip20
 print(f"Suggested amount of tip for 15%: ${tip15}")
 print(f"Suggested amount of tip for 20%: ${tip20}")
+print(f"Total with 15% tip:${total15}")
+print(f"Total with 20% tip:${total20}")
