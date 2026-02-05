@@ -7,4 +7,5 @@ print("Please, enter the total bill amount:")
 bill = float(input())
 tip15 = bill *.15
 tip20 = bill *.20
-
+total15=bill +tip15
+total20 =bill+tip20
