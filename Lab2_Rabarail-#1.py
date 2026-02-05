@@ -9,3 +9,5 @@ tip15 = bill *.15
 tip20 = bill *.20
 total15=bill +tip15
 total20 =bill+tip20
+print(f"Suggested amount of tip for 15%: ${tip15}")
+print(f"Suggested amount of tip for 20%: ${tip20}")
